@@ -1,0 +1,6 @@
+npm install @reduxjs/toolkit
+npm install react-redux
+store create and configure
+main.tsx provider add
+features folder create
+slice file createSlice
